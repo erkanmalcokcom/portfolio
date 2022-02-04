@@ -1,8 +1,8 @@
 # Portfolio
-[ Personality ] 
+[ ABOUT ME ] 
 ### I am open minded, hard-worker and confident team player. I am always motivated to find an optimal or reasonably-optimal solution for problems.
 ##
-[ Strategy ]
+[ STRATEGY ]
 ### Success is a science; if you have the conditions, you get the result. Value is not the same thing as price. Learning ability and consistency makes you talented. I accept failure but not trying. Play is the beginning of all knowledge.
 ##
 <em> "The greatest periods of growth is about reinvention. </em>
