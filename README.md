@@ -11,7 +11,7 @@
 ###### [View -->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Comparing%20Search%20Interest%20with%20Google%20Trends)
 #
 # Discover Buyer Persona with EDA
-###### [View -->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Discover%20Buyer%20Persona%20with%20EDAn)
+###### [View -->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Discover%20Buyer%20Persona%20with%20EDA)
 ## 
 # Height vs Weight
 ###### [View -->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Height%20vs%20Weight)
