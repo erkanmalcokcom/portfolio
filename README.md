@@ -8,19 +8,19 @@
 <em> "The greatest periods of growth is about reinvention. </em>
 ##
 ## Comparing Search Interest with Google Trends
-###### [Comparing Search Interest with Google Trends](https://github.com/erkanmalcokcom/Portfolio/tree/master/Comparing%20Search%20Interest%20with%20Google%20Trends)
+###### [-->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Comparing%20Search%20Interest%20with%20Google%20Trends)
 
 ## ML Linear Regression
-###### [ML Linear Regression](https://github.com/erkanmalcokcom/Portfolio/tree/master/ML%20Linear%20Regression)
+###### [-->](https://github.com/erkanmalcokcom/Portfolio/tree/master/ML%20Linear%20Regression)
 ## 
 ## ML Logistic Regression
-###### [ML Logistic Regression](https://github.com/erkanmalcokcom/Portfolio/tree/master/ML%20Logistic%20Regression)
+###### [-->](https://github.com/erkanmalcokcom/Portfolio/tree/master/ML%20Logistic%20Regression)
 ## 
 ## Real-time Insights from Social Media Data
-###### [Real-time Insights from Social Media](https://github.com/erkanmalcokcom/Portfolio/tree/master/Real-time%20Insights%20from%20Social%20Media%20Data)
+###### [-->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Real-time%20Insights%20from%20Social%20Media%20Data)
 ## 
 ## Who's Tweeting? Trump or Trudeau?
-###### [Who's Tweeting](https://github.com/erkanmalcokcom/Portfolio/tree/master/Who's%20Tweeting%3F%20Trump%20or%20Trudeau%3F)
+###### [-->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Who's%20Tweeting%3F%20Trump%20or%20Trudeau%3F)
 ##
 
 ##
