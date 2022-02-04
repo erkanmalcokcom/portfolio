@@ -9,7 +9,7 @@
 ##
 # Comparing Search Interest with Google Trends
 ###### [View -->](https://github.com/erkanmalcokcom/Portfolio/tree/master/Comparing%20Search%20Interest%20with%20Google%20Trends)
-
+#
 # ML Linear Regression
 ###### [View -->](https://github.com/erkanmalcokcom/Portfolio/tree/master/ML%20Linear%20Regression)
 ## 
@@ -25,4 +25,5 @@
 
 ##
 [Linkedin](https://www.linkedin.com/in/erkanmalcok/)
+##
 Additionally, I am an environmentalist - I recycle.
