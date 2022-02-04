@@ -21,7 +21,6 @@
 ###### [Who's Tweeting](https://github.com/erkanmalcokcom/Portfolio/tree/master/Who's%20Tweeting%3F%20Trump%20or%20Trudeau%3F)
 ##
 
-
-[Linkedin](https://www.linkedin.com/in/erkanmalcok/)
 ##
+[Linkedin](https://www.linkedin.com/in/erkanmalcok/)
 Additionally, I am an environmentalist - I recycle.
