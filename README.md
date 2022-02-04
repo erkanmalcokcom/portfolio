@@ -1,7 +1,8 @@
 # Portfolio
 
-**Personality: I am open minded, hard-worker and confident team player. I am always motivated to find an optimal or reasonably-optimal solution for problems.
-**Strategy: **Success is a science; if you have the conditions, you get the result. Value is not the same thing as price. Learning ability and consistency makes you talented. I accept failure but not trying. Play is the beginning of all knowledge.**
+**** +Personality: I am open minded, hard-worker and confident team player. I am always motivated to find an optimal or reasonably-optimal solution for problems.
+##
+** + Strategy: **Success is a science; if you have the conditions, you get the result. Value is not the same thing as price. Learning ability and consistency makes you talented. I accept failure but not trying. Play is the beginning of all knowledge.****
 
 Quote of the day: "The greatest periods of growth is about reinvention."
 
