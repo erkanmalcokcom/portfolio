@@ -6,7 +6,7 @@
 <em> "The greatest periods of growth is about reinvention. </em>
 ##
 ## Comparing Search Interest with Google Trends
-###### [Comparing%20Search%20Interest%20with%20Google%20Trends](https://www.linkedin.com/in/erkanmalcok/)
+###### [Comparing Search Interest with Google Trends](https://github.com/erkanmalcokcom/Portfolio/tree/master/Comparing%20Search%20Interest%20with%20Google%20Trends)
 
 ## ML Linear Regression
 ###### [ML Linear Regression](https://github.com/erkanmalcokcom/Portfolio/tree/master/ML%20Linear%20Regression)
