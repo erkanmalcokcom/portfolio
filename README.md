@@ -1,10 +1,6 @@
 # Portfolio
-[ ABOUT ME ]
-## I am an open-minded, hard-worker and confident team player. I am always motivated to find an optimal or reasonably-optimal solution for problems.
 
-[ STRATEGY ]
-## Success is a science; if you have the conditions, you get the result. And our learning ability and consistency makes us talented.
-<em> "Play is the beginning of all knowledge and let's start to play. </em>
+# I am an open-minded, hard-worker and confident team player. I am always motivated to find an optimal or reasonably-optimal solution for problems. Success is a science; if you have the conditions, you get the result. And our learning ability and consistency makes us talented.
 
 
 * Comparing Search Interest with Google Trends
