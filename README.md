@@ -7,20 +7,18 @@
 <em> "Play is the beginning of all knowledge and let's start to play. </em>
 
 
-##
-# Comparing Search Interest with Google Trends
-###### [View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Comparing%20Search%20Interest%20with%20Google%20Trends/notebook.ipynb)
-#
-# Discover Buyer Persona with EDA
-###### [View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Discover%20Buyer%20Persona%20with%20EDA/discovering-buyer-persona-with-eda.ipynb)
-## 
-# The Famous Debate: Height vs Weight Correlation
-###### [View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Height%20vs%20Weight/the-famous-correlation-height-vs-weight.ipynb)
-## 
-# Real-time Insights from Social Media Data
-###### [View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Real-time%20Insights%20from%20Social%20Media%20Data/notebook.ipynb)
-##
+* Comparing Search Interest with Google Trends
+[View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Comparing%20Search%20Interest%20with%20Google%20Trends/notebook.ipynb)
+
+* Discover Buyer Persona with EDA
+[View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Discover%20Buyer%20Persona%20with%20EDA/discovering-buyer-persona-with-eda.ipynb)
+
+* The Famous Debate: Height vs Weight Correlation
+[View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Height%20vs%20Weight/the-famous-correlation-height-vs-weight.ipynb)
+
+* Real-time Insights from Social Media Data
+[View -->](https://github.com/erkanmalcokcom/Portfolio/blob/master/Real-time%20Insights%20from%20Social%20Media%20Data/notebook.ipynb)
 
 [Get Connected](https://www.linkedin.com/in/erkanmalcok/)
-##
+
 Additionally, I am an environmentalist - I recycle.
